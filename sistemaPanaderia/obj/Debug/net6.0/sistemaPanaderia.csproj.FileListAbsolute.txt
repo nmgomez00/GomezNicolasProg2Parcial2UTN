@@ -1,0 +1,15 @@
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\bin\Debug\net6.0\sistemaPanaderia.exe
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\bin\Debug\net6.0\sistemaPanaderia.deps.json
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\bin\Debug\net6.0\sistemaPanaderia.runtimeconfig.json
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\bin\Debug\net6.0\sistemaPanaderia.dll
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\bin\Debug\net6.0\sistemaPanaderia.pdb
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.csproj.AssemblyReference.cache
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.AssemblyInfoInputs.cache
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.AssemblyInfo.cs
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.csproj.CoreCompileInputs.cache
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.dll
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\refint\sistemaPanaderia.dll
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.pdb
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\sistemaPanaderia.genruntimeconfig.cache
+C:\Users\ngomez\source\repos\sistemaPanaderia\sistemaPanaderia\obj\Debug\net6.0\ref\sistemaPanaderia.dll

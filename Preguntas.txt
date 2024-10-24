@@ -1,0 +1,56 @@
+1)
+
+* ¿Es necesario usar un archivo para guardar los alquileres históricos?
+No es necesario, pero si hay que mantener un registro de los usuarios lo estan 
+alquilando actualmente.
+
+* ¿Deberías utilizar una Lista para gestionar los productos disponibles en la tienda?
+No, seria mas eficiente usar un diccionario pues es mas eficiente que una lista
+(su complejidad algoritmica de busqueda es constante O(1) y el la lista es lineal
+O(n)). Para ello se podria agregar un campo ID a cada equipo.
+2)
+
+*¿Es necesario guardar en un archivo las actividades del parque?
+Si, pues las actividades de un parque suelen ser volatiles, y para estar
+al tanto de ellas deberiamos tener un registro persistente de las mismas.
+
+*¿Se debería usar un Diccionario para gestionar las actividades?
+Si, agregando un campo ID a cada actividad resultaria eficiente implementar un 
+diccionario para gestionar las mismas debido a la eficiencia del mismo a la 
+hora de realizar tareas que requiran buscar un elemento.
+
+3)
+*¿Deberías usar un Diccionario para almacenar las reservas de los clientes?
+Si, la estructura de datos diccionario las cuales poseen una
+eficiencia superior a la hora de buscar elementos, lo que mejora el rendimiento
+a la hora de realizar metodos CRUD.
+*¿Es necesario persistir las reservas canceladas?
+Si, pues una reserva cancelada requiere de un reembolso y para esto se debe tener
+un registro de las mismas.
+
+4)
+
+*¿Es necesario guardar en un archivo el historial completo de compras de cada cliente?
+si, si bien no es necesario guardar los detalles de cada compra, el sistema debe ser capaz
+de verificar la fidelidad de los clientes, y para ello un historial completo que por lo menos
+indique cuando compro es necesario.
+
+*¿Es útil el encapsulamiento en este caso?
+El encapsulamiento de las propiedades de una clase es siempre necesario para evitar 
+modificaciones no deseadas. Ejemplo: En este caso podria pasar que se modifique el historial
+alterando el estado de fidelidad del cliente.
+5)
+*¿Se requiere un Enum para representar el tipo de vehículo?
+Si, pues no se necesita mantener infomacion especifica del vehiculo, es decir,
+no es necesario usar clases. Ademas, para identificarlo, ya tenemos la matricula.
+
+*¿Es necesario almacenar en un archivo la información de los vehículos que ya salieron del
+estacionamiento?
+Si, seria prudente por si ocurre un evento no deseado en el estacionamiento durante el tiempo
+que estuvo el vehiculo.
+
+--------------------------------------------------------------------------------
+Explica las diferencias entre los modificadores de acceso privado, protegido y público.
+Privado: Solo permite el acceso a la propiedad o metodo dentro de la misma clase. 
+Protegido: Solo permite el acceso a la propiedad o metodo dentro de la misma clasee y a sus hijos.
+Publico: Permite el acceso a todos los objetos.
