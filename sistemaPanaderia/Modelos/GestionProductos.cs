@@ -88,7 +88,7 @@ namespace sistemaPanaderia.Modelos
                     string nombre = d[0];
                     decimal precio = decimal.Parse(d[1]);
 
-                    Categoria categoria = (Categoria)Enum.Parse(typeof(Categoria), d[1]);
+                    Categoria categoria = (Categoria)Enum.Parse(typeof(Categoria), d[2]);
 
 
 

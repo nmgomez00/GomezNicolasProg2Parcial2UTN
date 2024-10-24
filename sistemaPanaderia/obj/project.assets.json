@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngomez\\source\\repos\\sistemaPanaderia\\sistemaPanaderia\\sistemaPanaderia.csproj",
+      "projectUniqueName": "C:\\Users\\ngomez\\Downloads\\GomezNicolasProg2Parcial2UTN\\sistemaPanaderia\\sistemaPanaderia.csproj",
       "projectName": "sistemaPanaderia",
-      "projectPath": "C:\\Users\\ngomez\\source\\repos\\sistemaPanaderia\\sistemaPanaderia\\sistemaPanaderia.csproj",
+      "projectPath": "C:\\Users\\ngomez\\Downloads\\GomezNicolasProg2Parcial2UTN\\sistemaPanaderia\\sistemaPanaderia.csproj",
       "packagesPath": "C:\\Users\\ngomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngomez\\source\\repos\\sistemaPanaderia\\sistemaPanaderia\\obj\\",
+      "outputPath": "C:\\Users\\ngomez\\Downloads\\GomezNicolasProg2Parcial2UTN\\sistemaPanaderia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ngomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
